@@ -1,0 +1,31 @@
+body{
+    background-image: url("images.jpeg");
+    background-repeat: no-repeat;
+    background-size:450px 625.5px;
+
+}
+.title{
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 430.4px;
+    color: rgb(0, 26, 255);
+    border:solid rgb(8, 8, 8)5px;
+
+}
+input[type="button"]{
+    font-size: x-large;
+    background-color: rgba(253, 253, 253, 0.568);
+    color: rgb(0, 0, 0);
+    border: solid rgb(10, 187, 241) 40px;
+    width: 100%;
+}
+input[type="text"]{
+    font-weight: bold;
+    font-size: x-large;
+    background-color: rgba(197, 232, 255, 0.664);
+    border: solid black 1px;
+    width: 100%;
+    
+}
